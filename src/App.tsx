@@ -42,7 +42,6 @@ export default function App() {
               timeFormat={true}
               isValidDate={valid}
               // onFocus={!sampleProfile?handleOnFocus:()=>{}}
-              // onBlur={!sampleProfile?handleOnBlur:()=>{}}
               inputProps={{ placeholder: "Task due date" }}
             />
  
